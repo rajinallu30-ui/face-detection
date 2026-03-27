@@ -13,3 +13,4 @@ This project detects faces using OpenCV and MediaPipe.
 
 ## Output
 Real-time face detection using webcam
+
